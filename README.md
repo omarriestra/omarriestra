@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @omarriestra
 
-Soy Omar Riestra, ingeniero superior aeronáutico especializado en automatización de procesos, análisis de datos y soluciones innovadoras en el sector financiero y tecnológico. Actualmente trabajo en Amadeus, dentro del equipo de **Corporate Finance & Revenue Management**, desarrollando proyectos de mejora continua e innovación en el equipo llamado **Corner of Excellence**.
+I am Omar Riestra, aeronautical engineer specialized in process automation, data analysis and innovative solutions in the financial and technology sector. I currently work at Amadeus, within the **FinOps** team, developing continuous improvement and innovation projects in a great team called **Corner of Excellence**.
 
 ## 👀 I’m interested in:
 - Process automation (Power Platform, Python, VBA)
@@ -8,7 +8,7 @@ Soy Omar Riestra, ingeniero superior aeronáutico especializado en automatizaci�
 - AI-driven tools and assistants
 - Data analytics & visualization
 - Financial engineering and trading bots
-- Creative coding for music, Twitch streaming & digital content
+- Creative content and music
 
 ## 🌱 I’m currently learning:
 - Full-stack development for automation tools and bots
@@ -28,12 +28,4 @@ Soy Omar Riestra, ingeniero superior aeronáutico especializado en automatizaci�
 - 📷 [Instagram - @rvclub.tv](https://www.instagram.com/rvclub.tv)
 - 🎵 [SoundCloud - OMARS](https://soundcloud.com/omardos)
 - 🕹️ Twitch channel and GitHub projects coming soon!
-
-## 😄 Pronouns:
-He/him · Él
-
-## ⚡ Fun fact:
-Tengo un gato llamado Toro que ha desarrollado habilidades de parkour por los tejados de Madrid. 
-También soy DJ de hardgroove y techno bajo el nombre **OMARS** y combino vinilos con sets en directo.
-Mis proyectos de automatización y mis loops de bajo tienen algo en común: **no paro hasta que suenen bien.**
 
